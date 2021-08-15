@@ -1,0 +1,60 @@
+.Rectangle{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+}
+.bg-info-color{
+
+    left: 0px;
+    top: 0px;
+background: #264653;
+}
+.filled{
+    color:goldenrod;
+    font-size: 0.8em;
+  
+    
+}
+.ratings{
+    
+    padding: 5px;
+}
+
+/* .images style{
+    position: static;
+width: 149px;
+height: 149px;
+left: calc(50% - 149px/2);
+top: 40;
+} */
+.text-color{
+    color: #E76F51;
+}
+.small-tag{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   color:  #23A6F0;
+   padding: 0px;
+   
+
+}
+.footer{
+    height:200px;
+    position: absolute;
+height: 280px;
+left: 0%;
+right: 0%;
+
+background: #0B0D17;
+}
+
+  
+*{
+    margin: 0;
+    padding: 0;
+}
